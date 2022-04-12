@@ -1,0 +1,56 @@
+{
+    "total_size": 5,
+    "type_id": 3,
+    "offset": 0,
+    "products": [
+        {
+            "id": 1,
+            "name": "دجاج شواية",
+            "descriotion": "تيس بلدي خالي من الهون تربيه سعودية ",
+            "price": 80,
+            "stars": 4,
+            "img": "/saqeralmuntser/zadbalady/main/zad_3.png",
+            "location": "الرياض",
+            "created_at": "2022-01-02 15:03:23",
+            "updated_at": "2022-01-03 15:03:23",
+            "type_id": 2
+        },
+        {
+            "id": 2,
+            "name": "تيس بلدي ",
+            "descriotion": "تيس بلدي خالي من الهون تربيه سعودية ",
+            "price": 80,
+            "stars": 4,
+            "img": "/saqeralmuntser/zadbalady/main/zad_4.png",
+            "location": "الرياض",
+            "created_at": "2022-01-02 15:03:23",
+            "updated_at": "2022-01-03 15:03:23",
+            "type_id": 2
+        },
+         {
+            "id": 2,
+            "name": "دجاج مدفون",
+            "descriotion": "تيس بلدي خالي من الهون تربيه سعودية ",
+            "price": 80,
+            "stars": 4,
+            "img": "/saqeralmuntser/zadbalady/main/zad_2.png",
+            "location": "الرياض",
+            "created_at": "2022-01-02 15:03:23",
+            "updated_at": "2022-01-03 15:03:23",
+            "type_id": 2
+        },
+         {
+            "id": 2,
+            "name": "مقلوبة",
+            "descriotion": "تيس بلدي خالي من الهون تربيه سعودية ",
+            "price": 80,
+            "stars": 4,
+            "img": "/saqeralmuntser/zadbalady/main/zad_4.png",
+            "location": "الرياض",
+            "created_at": "2022-01-02 15:03:23",
+            "updated_at": "2022-01-03 15:03:23",
+            "type_id": 2
+        }
+        
+    ]
+}
